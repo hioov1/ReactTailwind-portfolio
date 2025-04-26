@@ -19,7 +19,7 @@ function Projects() {
       title: "Third Portfolio",
       desc: "Basic Portfolio With React Tailwind CSS",
       tech: "Vite React Tailwind CSS Framer-motion",
-      link: "#",
+      link: "https://github.com/hioov1/ReactTailwind-portfolio",
     },
   ];
 
